@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 143
-- admin: maintenance and dependency updates (2026-11-27 07:02)
+## Sprint 144
+- admin: maintenance and dependency updates (2026-11-27 09:37)
